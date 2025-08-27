@@ -48,9 +48,9 @@ This ensures a faster, unbiased, and gamified interview experience while saving 
 - Data Storage: JSON files (auto-saved with timestamp)
 - Styling: Custom CSS for chat-like UI
 🚀 Setup & Installation
-1. Clone the repository:
-   git clone https://github.com/yourusername/talentscout-ai.git
-   cd talentscout-ai
+1.Clone the repository:
+   git clone https://github.com/Soumik-05/HR-Chatbot.git
+cd HR-Chatbot
 
 2. Install dependencies:
    pip install -r requirements.txt
